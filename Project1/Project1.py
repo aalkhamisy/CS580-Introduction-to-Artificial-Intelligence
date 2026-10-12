@@ -104,3 +104,5 @@ for k in K:
     print(f"Best Solution: {best_solution}")
     print(f"Rounds: {rounds}")
     print(f"Stop Criterion: {stop_criterion}")
+
+
