@@ -11,6 +11,7 @@ import pandas as pd
 # In[2]:
 
 
+
 col_names = ['Type', 'Alcohol', 'MalicAcid',
              'Ash', 'Alcalinity', 'Magnesium','Phenols','Flavanoids','Nonflavanoid',
              'Proanthocyanins','Colorlntensity','Hue','DilutedWines','Proline']
